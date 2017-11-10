@@ -1,0 +1,11 @@
+Código único del cliente,nombres,apellidos,número de tarjeta de crédito o débito,fecha de nacimiento,número telefónico,número de móvil,dirección de habitación,clasificación por frecuencia,clasificación por monto
+1,nombre1,apellido1,11111111,01-01-81,12345678,45678901,zona1,Anual,Básico
+2,nombre2,apellido2,22222222,02-02-82,90123456,23456789,zona2,Anual,Premiun
+3,nombre3,apellido3,33333333,03-03-83,78901234,56789012,zona3,Anual,Platino
+4,nombre4,apellido4,44444444,04-04-94,56789012,13579135,zona4,Anual,Básico
+5,nombre5,apellido5,55555555,05-05-85,34567890,24680246,zona5,Anual,Premiun
+6,nombre6,apellido6,66666666,06-06-96,98765432,79135791,zona6,Anual,Platino
+7,nombre7,apellido7,77777776,07-07-97,10987654,80246802,zona7,Anual,Básico
+8,nombre8,apellido8,88888888,08-08-88,32109876,35791357,zona8,Anual,Premiun
+9,nombre9,apellido9,99999999,09-09-89,54321098,46802468,zona9,Anual,Platino
+10,nombre10,apellido10,10101010,10-10-90,76543210,91357913,zona10,Anual,Platino

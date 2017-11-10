@@ -1,0 +1,10 @@
+Código único del lugar,nombre del lugar,descripción del lugar,país,ciudad,dirección,mínimo de edad permitido,horario de inicio de actividad,horarios de funciones,recomendaciones de seguridad,código de destino
+1,lugar1,descripcion1,guatemala,antigua,direccion1,10,10:00,0,recomendacion1,1
+2,lugar2,descripcion2,mexico,guadalajara,direccion2,9,9:00,0,recomendacion2,2
+3,lugar3,descripcion3,belice,belmopan,direccion3,11,15:00,18:00,recomendacion3,4
+4,lugar4,descripcion4,honduras,san pedro sula,direccion4,15,14:00,17:00,recomendacion4,4
+5,lugar5,descripcion5,estados unidos,miami,direccion5,18,19:00,0,recomendacion5,5
+6,lugar11,descripcion6,guatemala,antigua,direccion6,18,20:00,0,recomendacion6,1
+7,lugar22,descripcion7,mexico,guadalajara,direccion7,18,21:00,0,recomendacion7,2
+8,lugar33,descripcion8,belice,belmopan,direccion8,12,8:00,14:00,recomendacion8,3
+9,lugar66,descripcion9,el salvador,san salvador,direccion9,12,12:00,17:00,recomendacion9,6
